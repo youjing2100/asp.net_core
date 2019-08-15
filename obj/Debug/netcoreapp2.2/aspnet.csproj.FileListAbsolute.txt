@@ -1,0 +1,14 @@
+C:\Users\youjing.lee\Desktop\aspnet\bin\Debug\netcoreapp2.2\aspnet.deps.json
+C:\Users\youjing.lee\Desktop\aspnet\bin\Debug\netcoreapp2.2\aspnet.runtimeconfig.json
+C:\Users\youjing.lee\Desktop\aspnet\bin\Debug\netcoreapp2.2\aspnet.runtimeconfig.dev.json
+c:\Users\youjing.lee\Desktop\aspnet\bin\Debug\netcoreapp2.2\aspnet.dll
+c:\Users\youjing.lee\Desktop\aspnet\bin\Debug\netcoreapp2.2\aspnet.pdb
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.csprojAssemblyReference.cache
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.csproj.CoreCompileInputs.cache
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.RazorAssemblyInfo.cache
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.RazorAssemblyInfo.cs
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.AssemblyInfoInputs.cache
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.AssemblyInfo.cs
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.RazorTargetAssemblyInfo.cache
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.dll
+c:\Users\youjing.lee\Desktop\aspnet\obj\Debug\netcoreapp2.2\aspnet.pdb
